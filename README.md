@@ -1,7 +1,6 @@
 ![acs rice cover](https://github.com/helloanavee/inbred-vs-hybrid-rice/assets/15902153/1e6e0f23-0c95-4ec5-a10e-900124fc7460)
 
-
-[Read the full report here](https://helloanavee.github.io/textblob-sentiment-analysis/TextBlob_vs_Traditional_ML.html)
+[Read the full report here](https://helloanavee.github.io/inbred-vs-hybrid-rice/inbred-vs-hybrid.html)
 
 ## A Quick Overview
 One of the focuses of the Philippines in recent years has been food sustainability and protecting the local agricultural industry (Department of Agriculture 2022 Annual Report, 2023). Within this industry, rice is hailed as one of the top food crops in the Philippines. In recent years for this industry, there has been a contest on whether or not to produce hybrid rice instead of the farmer-preferred inbred rice. In a study by Chengappa, P.G., Gowda, M.V.S., & Janaiah A (1994), hybrid rice was proven to have a clear advantage over inbred rice. 
@@ -25,4 +24,4 @@ Hypothesis testing, One-way ANOVA, Z-test, Mann-Whitney U Test
 Paulo Medina, Gregory Uy, Ana Vasquez, Gian Servanez
 <br> MSDS 2024
 
-[Read the full report here](https://helloanavee.github.io/textblob-sentiment-analysis/TextBlob_vs_Traditional_ML.html)
+[Read the full report here](https://helloanavee.github.io/inbred-vs-hybrid-rice/inbred-vs-hybrid.html)
