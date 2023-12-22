@@ -1,4 +1,5 @@
-![acs rice cover (1)](https://github.com/helloanavee/inbred-vs-hybrid-rice/assets/15902153/26d5a5b5-4b0c-40a4-a526-687cd752a62e)
+![acs rice cover](https://github.com/helloanavee/inbred-vs-hybrid-rice/assets/15902153/1e6e0f23-0c95-4ec5-a10e-900124fc7460)
+
 
 [Read the full report here](https://helloanavee.github.io/textblob-sentiment-analysis/TextBlob_vs_Traditional_ML.html)
 
